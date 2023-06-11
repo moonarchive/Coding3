@@ -112,6 +112,15 @@ These are some new rime photos I found online. By loading the images into the mo
 
 <img src="https://git.arts.ac.uk/storage/user/709/files/85ff2e7c-9e51-4f16-be6e-0df88ea08c27" width="30%"></img> <img src="https://git.arts.ac.uk/storage/user/709/files/70af4ae0-2047-45b7-9a42-195d5792f15b" width="30%"></img> <img src="https://git.arts.ac.uk/storage/user/709/files/b1b9264f-6dcd-4a96-ba26-f6bb1290b916" width="30%"></img> <img src="https://git.arts.ac.uk/storage/user/709/files/292e2862-2f28-4d33-b743-461d49e99744" width="30%"></img> <img src="https://git.arts.ac.uk/storage/user/709/files/1a66afc8-1772-4560-b52d-349e7fc1a38f" width="30%"></img> <img src="https://git.arts.ac.uk/storage/user/709/files/e785a610-487a-4abe-8850-9c484bbd3b0e" width="30%"></img> <img src="https://git.arts.ac.uk/storage/user/709/files/2f9659f5-320d-4683-8a8b-572b0422f921" width="30%"></img> <img src="https://git.arts.ac.uk/storage/user/709/files/770d2c43-f9ce-4acd-8851-f369a9f2493e" width="30%"></img> <img src="https://git.arts.ac.uk/storage/user/709/files/12c11946-9eed-4f74-9f24-17f01720870f" width="30%"></img> <img src="https://git.arts.ac.uk/storage/user/709/files/9d82b76f-3281-4246-a690-3c8d366a8795" width="30%"></img> <img src="https://git.arts.ac.uk/storage/user/709/files/867f10b5-e70e-43a4-a101-e6dc02898b8f" width="30%"></img> <img src="https://git.arts.ac.uk/storage/user/709/files/1f3690c0-8e38-4394-81e3-1ad3f7dd4a9b" width="30%"></img> 
 
+## Evaluation Method
+
+The performance of the project is evaluated based on both the generated image and the reconstructed image.
+
+In terms of the AtoB model, the performance of the model can be assessed by comparing how well the generated images and the input flower paintings agree in terms of pattern colour and style. In this project, the generated images generally met this criterion and showed some surprising outputs.
+Another evaluation criterion was the degree of reproduction by comparing the reconstructed images with the input rime photos. The closer the two are, the better the model performs. In this project again, the reconstructed images largely reproduced the colours of the original image and did not allow any stray colours to blend in, although the contrast was slightly higher than in the original image.
+
+Overall, I think this project is excellent in terms of achieving the core idea and meeting the objectives.
+
 ## References
 
 ### Datasets
