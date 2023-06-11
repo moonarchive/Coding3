@@ -119,7 +119,7 @@ The performance of the project is evaluated based on both the generated image an
 In terms of the AtoB model, the performance of the model can be assessed by comparing how well the generated images and the input flower paintings agree in terms of pattern colour and style. In this project, the generated images generally met this criterion and showed some surprising outputs.
 Another evaluation criterion was the degree of reproduction by comparing the reconstructed images with the input rime photos. The closer the two are, the better the model performs. In this project again, the reconstructed images largely reproduced the colours of the original image and did not allow any stray colours to blend in, although the contrast was slightly higher than in the original image.
 
-Overall, I think this project is excellent in terms of achieving the core idea and meeting the objectives.
+Overall, I think this project did a good job in terms of achieving the core idea and meeting the objectives.
 
 ## References
 
