@@ -1,5 +1,7 @@
 # rime2flower generator
 
+Video link: https://youtu.be/xuUFtZdAFiI
+
 This is a project using cycleGAN to realize the image to image transformation. Referenced sources are at the end of this Readme file.
 
 ## Project Idea
@@ -133,7 +135,6 @@ https://www.kaggle.com/datasets/jehanbhathena/weather-dataset
 
 
 ### Referenced code
-
 
 instancenormalization.py 
       https://github.com/keras-team/keras-contrib/blob/master/keras_contrib/layers/normalization/instancenormalization.py
