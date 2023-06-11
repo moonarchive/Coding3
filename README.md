@@ -2,6 +2,8 @@
 
 Video link: https://youtu.be/xuUFtZdAFiI
 
+Original work files (all sources needed for running the notebook): https://drive.google.com/drive/folders/1C7Qp_sD2ftUeoL18sGukSmEc3tnPa5rz?usp=sharing
+
 This is a project using cycleGAN to realize the image to image transformation. Referenced sources are at the end of this Readme file.
 
 ## Project Idea
